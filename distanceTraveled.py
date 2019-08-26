@@ -1,5 +1,5 @@
 """
-Alec Glavey
+Alec
 distance.py
 8-21-19
 Ver 1.4

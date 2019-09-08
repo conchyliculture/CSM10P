@@ -1,5 +1,5 @@
 """
-Alec Glavey
+Alec
 bmi.py
 8-27-19
 Ver 1.5

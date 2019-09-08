@@ -1,5 +1,5 @@
 """
-Alec Glavey
+Alec
 paintJob.py
 8-25-19
 Ver 1.17

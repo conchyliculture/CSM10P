@@ -1,5 +1,5 @@
 """
-Alec Glavey
+Alec
 geometryCalculator.py
 8-31-19
 Ver 1.8
